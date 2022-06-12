@@ -4,6 +4,7 @@ import java.util.regex.*;
 import java.util.*;
     public class EmailValidation{
         public static void main(String args[]){
+            System.out.println("This is a Test For Branching");
 
             ArrayList<String> emails = new ArrayList<String>();
 
